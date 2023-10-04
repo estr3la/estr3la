@@ -10,8 +10,6 @@ Meu nome é Estéfane Santana, sou estudante de **Desenvolvimento de Software Ba
 - Familiaridade com Pacotes NPM, Node.js e Express.js para o desenvolvimento de aplicativos web dinâmicos.
 - Domínio de Git para um controle eficaz de versionamento de código e colaboração em equipe.
 - Experiência com arquitetura MVC para criar sistemas bem estruturados e de fácil manutenção.
-- Criação de Fluxo de git e GitHub
-- Projetar Sistemas UI/UX.
 - Desenvolver Aplicativos Mobile com Framework
 - Projeto Integrador Programador.
 - Construir aplicações front-end.
